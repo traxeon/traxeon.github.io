@@ -2,17 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://traxeon.io/posts/202401152113-first-post/</loc>
+    <loc>https://traxeon.io/posts/test-first-post/</loc>
+    <lastmod>2024-01-15T21:13:42-05:00</lastmod>
+  </url><url>
+    <loc>https://traxeon.io/categories/</loc>
+    <lastmod>2024-01-15T21:13:42-05:00</lastmod>
+  </url><url>
+    <loc>https://traxeon.io/tags/intro/</loc>
     <lastmod>2024-01-15T21:13:42-05:00</lastmod>
   </url><url>
     <loc>https://traxeon.io/posts/</loc>
     <lastmod>2024-01-15T21:13:42-05:00</lastmod>
   </url><url>
-    <loc>https://traxeon.io/</loc>
+    <loc>https://traxeon.io/tags/</loc>
     <lastmod>2024-01-15T21:13:42-05:00</lastmod>
   </url><url>
-    <loc>https://traxeon.io/categories/</loc>
+    <loc>https://traxeon.io/categories/test/</loc>
+    <lastmod>2024-01-15T21:13:42-05:00</lastmod>
   </url><url>
-    <loc>https://traxeon.io/tags/</loc>
+    <loc>https://traxeon.io/</loc>
+    <lastmod>2024-01-15T21:13:42-05:00</lastmod>
   </url>
 </urlset>

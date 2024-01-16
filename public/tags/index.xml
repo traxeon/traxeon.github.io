@@ -5,6 +5,15 @@
         <link>https://traxeon.io/tags/</link>
         <description>Recent content in Tags on Traxeon</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language><atom:link href="https://traxeon.io/tags/index.xml" rel="self" type="application/rss+xml" />
+        <language>en-us</language>
+        <lastBuildDate>Mon, 15 Jan 2024 21:13:42 -0500</lastBuildDate><atom:link href="https://traxeon.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>intro</title>
+        <link>https://traxeon.io/tags/intro/</link>
+        <pubDate>Mon, 15 Jan 2024 21:13:42 -0500</pubDate>
+        
+        <guid>https://traxeon.io/tags/intro/</guid>
+        <description></description>
+        </item>
+        
     </channel>
 </rss>
