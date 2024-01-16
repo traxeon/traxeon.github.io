@@ -1,4 +1,4 @@
 baseURL = 'https://traxeon.io/'
 languageCode = 'en-us'
 title = 'Traxeon'
-theme = 'ananke'
+theme = 'hugo-theme-stack'
